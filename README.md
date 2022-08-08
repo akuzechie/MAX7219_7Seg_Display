@@ -1,1 +1,1 @@
-# MAX7219_7Seg_Display
+# MAX7219 7-Segment Display
